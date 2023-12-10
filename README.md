@@ -47,7 +47,7 @@ Use these settings when adding a monitor:</b>
 ### Deploy On Heroku 
 <details><summary>Deploy To Heroku</summary>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/VJBots/VJ-Auto-Forward-Bot">
+<a href="https://heroku.com/deploy?template=">
 <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku">
 </a>
 </details>
@@ -79,7 +79,7 @@ Use these settings when adding a monitor:</b>
 	- This for some getting user info. If any new User added to DB, Bot will send Log to that Logs Channel. You can use same DB Channel ID.
 
 ### Deploy Now:
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/VJBots/File-Store-Bot-With-Url-Shortner)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Deaduserbot177726/File-Store-Bot-With-Url-Shortner)
 
 ## Commands:
 ```
