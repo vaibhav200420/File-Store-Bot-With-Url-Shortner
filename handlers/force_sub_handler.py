@@ -59,7 +59,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Something went Wrong. Contact my [𝙎𝙪𝙥𝙥𝙤𝙧𝙩 𝙂𝙧𝙤𝙪𝙥](https://t.me/mOVIES_4K_HuB).",
+            text="Join Our Backup There we Post Our Private Channels Link [backup mOViES 4K HuB](https://t.me/mOVIES_4K_HuB).",
             disable_web_page_preview=True
         )
         return 200
