@@ -11,7 +11,7 @@ from handlers.helpers import str_to_b64
 async def reply_forward(message: Message, file_id: int):
     try:
         await message.reply_text(
-            f"Files will be deleted in 30 minutes to avoid copyright issues. Please forward and save them.",
+            f"</b> ⚠️𝙁𝙞𝙡𝙚𝙨 𝙬𝙞𝙡𝙡 𝙗𝙚 𝙙𝙚𝙡𝙚𝙩𝙚𝙙 𝙞𝙣 30 𝙢𝙞𝙣𝙪𝙩𝙚𝙨 ⏳️ 𝙩𝙤 𝙖𝙫𝙤𝙞𝙙 𝙘𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 ©️ 𝙞𝙨𝙨𝙪𝙚𝙨. 𝙋𝙡𝙚𝙖𝙨𝙚 𝙛𝙤𝙧𝙬𝙖𝙧𝙙 𝙖𝙣𝙙 𝙨𝙖𝙫𝙚 𝙩𝙝𝙚𝙢.\n\n 𝙄𝙛 𝙮𝙤𝙪 𝙬𝙖𝙣𝙩 𝙩𝙤 𝙒𝙖𝙩𝙘𝙝 𝙤𝙣𝙡𝙞𝙣𝙚 𝙏𝙝𝙚𝙣 𝙎𝙚𝙣𝙙 𝙏𝙝𝙞𝙨 𝙁𝙞𝙡𝙚 𝙩𝙤 𝙊𝙪𝙧 𝙎𝙩𝙧𝙚𝙖𝙢𝙞𝙣𝙜 𝘽𝙤𝙩<a href='https://telegram.me/AJxSTREAMING_Bot?start=AJx'>@𝘼𝙅𝙭𝙎𝙏𝙍𝙀𝘼𝙈𝙄𝙉𝙂_𝘽𝙤𝙩 🤖</a> 𝙀𝙣𝙟𝙤𝙮 !!\n\n<a href='https://t.me/How_Download_mOVIES4KHub/26'>#𝙃𝙤𝙬 𝙩𝙤 𝙪𝙨𝙚 𝙎𝙩𝙧𝙚𝙖𝙢 𝘽𝙤𝙩 𝙩𝙪𝙩𝙤𝙧𝙞𝙖𝙡 💡</a>",
             disable_web_page_preview=True,
             quote=True
         )
