@@ -59,7 +59,7 @@ async def handle_force_sub(bot: Client, cmd: Message):
     except Exception:
         await bot.send_message(
             chat_id=cmd.from_user.id,
-            text="Join Our Backup There we Post Our Private Channels Link [backup mOViES 4K HuB](https://t.me/mOVIES_4K_HuB).",
+            text="𝐉𝐨𝐢𝐧 𝐨𝐮𝐫 𝐛𝐚𝐜𝐤𝐮𝐩 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 𝐰𝐡𝐞𝐫𝐞 𝐰𝐞 𝐬𝐡𝐚𝐫𝐞 𝐨𝐮𝐫 𝐩𝐫𝐢𝐯𝐚𝐭𝐞 𝐜𝐡𝐚𝐧𝐧𝐞𝐥𝐬 𝐋𝐢𝐧𝐤 . 𝐒𝐭𝐚𝐲 𝐜𝐨𝐧𝐧𝐞𝐜𝐭𝐞𝐝 𝐚𝐧𝐝 𝐚𝐜𝐜𝐞𝐬𝐬 𝐨𝐮𝐫 𝐜𝐨𝐧𝐭𝐞𝐧𝐭 𝐬𝐞𝐜𝐮𝐫𝐞𝐥𝐲. 𝐉𝐨𝐢𝐧 𝐧𝐨𝐰 [𝗺𝗢𝗩𝗶𝗘𝗦 𝟰𝗞 𝗛𝘂𝗕](https://t.me/mOVIES_4K_HuB).",
             disable_web_page_preview=True
         )
         return 200
